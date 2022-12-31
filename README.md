@@ -1,5 +1,5 @@
 # Compiler Construction
-# Assignment 1
+# Assignment 2
 
 # Module 1 (Output)
 ![Screenshot from 2022-12-31 18-37-04](https://user-images.githubusercontent.com/91963525/210139227-7b1c8056-fe95-4b95-97ff-31fbd790bf5e.png)
